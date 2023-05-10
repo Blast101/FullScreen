@@ -1,0 +1,2 @@
+# FullScreen
+Full screen API
